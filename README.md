@@ -22,3 +22,28 @@ This repo contains all information needed to demonstrate that I've completed Hom
 
 ### Link to the GitHub Issue
 [Link to the GitHub Issue](https://github.com/habodoni/Homework1-Todo-List/issues/1)
+
+# Homework 2
+
+## Summary
+This repo contain contains all information needed to demonstrate I've completed Homework2. It shows that I've cleaned up "Homework.pdf", added a second chapter called "KylePonteHomeworkTwo.tex", and added all diagrams to the attached PDF to this chapter. I also modified the class example of Product and Sale by altering the code so that it keeps track of inventory, and updated the UML diagram to display the changes.
+
+## Cleaning up of "Homework.pdf"
+- Removed any reference to original template
+- No unnecessary figures or empty introduction
+
+## Addition of Second Chapter
+- Added a new chapter titled "UML Class Modeling"
+- Contains diagrams for answers to the attached PDF of this chapter
+
+### PDF of Updated Homework Manual
+[Link to the PDF file of the Updated Homework Manual](https://github.com/kyleponte/Homework1/blob/main/Homework2.pdf)
+
+## Modification of Product and Sale code and UML Diagram
+- Modified the code so that the Product class keeps track of the product inventory
+- Added a new association and provided multiplicities
+- Screenshot of code results is in the Homework Manual
+- Updated the UML diagram to represent changes to the code
+
+
+
