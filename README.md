@@ -49,3 +49,6 @@ This repo contain contains all information needed to demonstrate I've completed 
 
 ## PDF of the Updated Homework Manual
 [Link to the PDF file of the Updated Homework Manual](https://github.com/kyleponte/Homework1/blob/main/Homework4.pdf)
+
+## Excel With Work
+[Link to the Excel file containing work](https://github.com/kyleponte/Homework1/blob/main/HW4%20Work%20Complete.xlsx)
