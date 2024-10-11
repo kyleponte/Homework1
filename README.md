@@ -45,5 +45,7 @@ This repo contain contains all information needed to demonstrate I've completed 
 - Screenshot of code results is in the Homework Manual
 - Updated the UML diagram to represent changes to the code
 
+# Homework 4
 
-
+## PDF of the Updated Homework Manual
+[Link to the PDF file of the Updated Homework Manual](https://github.com/kyleponte/Homework1/blob/main/Homework4.pdf)
